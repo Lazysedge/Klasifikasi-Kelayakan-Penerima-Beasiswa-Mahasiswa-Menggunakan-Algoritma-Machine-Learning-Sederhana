@@ -83,8 +83,8 @@ Data dibagi menjadi:
 80% Data Training
 20% Data Testing
 
-**Cara Menjalankan
-**1. Install Library
+**Cara Menjalankan**
+1. Install Library
 pip install pandas numpy matplotlib scikit-learn graphviz joblib
 2. Jalankan Notebook
 
